@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "my new hello world";
+echo "walmart";
 ?> 
 
 </body>
